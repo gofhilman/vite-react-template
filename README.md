@@ -1,6 +1,6 @@
 # Vite + React Template
 
-This project is a template for building React applications using Vite. It includes a set of tools and configurations tailored for efficient development and production workflows.
+This is a template for building React applications using Vite. It includes a set of tools and configurations tailored for efficient development and production workflows.
 
 ## Features
 
